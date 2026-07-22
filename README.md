@@ -25,47 +25,46 @@ Blinkit sales analysis
 
 ### Project Overview
 ---
-In this project, I am tasked with analysing sales performance of a retail store. it involves exploring sales data to uncover key insights, such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings. 
+I conducted a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Power BI.
 
-### Data Source
+The dataset contained 8,523 rows and 12 columns, and I performed data cleaning before building an interactive dashboard to uncover meaningful business insights.
+
+Key KPIs analyzed:
+📊 Total Sales
+📊 Average Sales
+📦 Number of Items Sold
+⭐ Average Customer Rating
+
+One aspect of this project I particularly enjoyed was creating metrics (DAX measures) and using them to build interactive visualizations that made the data easier to explore and understand.
+
+### Tools and Skills Used
 ---
-The data used is Lita_Capstone_Dataset (SalesData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capstone_Project.
-
-### Tools Used
----
-- Microsoft Excel 
-  1. For Data Cleaning
-  2. For Analysis
-  3. For Visualization
-     
-- SQL - Structured Query Language for Querying of Data
-
 - Power BI - Power Business Intelligence for Data Visualization
+- Data Cleaning & Quality Checks
+- Data Processing
+- Data Modeling
+- DAX Calculations
+- Dashboard & Report Development
+- Insight Generation
 
-- Github for
-  1. Portfolio Building
-  2. Project Submission 
 
 ### Data Cleaning and Preparations
 ---
-This involves identifying data errors and then changing, updating or removing data to correct them.
 1. Data loading and Inspection
 2. Verifying blank cells
 3. Data Cleaning and Formatting
 
-### Exploratory Data Analysis
----
-- What is the total sales by:
-   1. Product
-   2. Region and
-   3. Month
-- Calculate Metrics such as:
-   1. Average sales per product
-   2. Total revenue by region
-      using Excel formulas
 
-### Data Analysis
+
+### Data Visualization
 ---
 
-![Screenshot 2024-11-03 231333](https://github.com/user-attachments/assets/7969f572-3a5e-4919-b970-dad481c712cf)
+!<img width="1917" height="985" alt="Screenshot 2026-07-22 152309" src="https://github.com/user-attachments/assets/48ffac5c-3714-4541-a96d-8564c224f444" />
 
+
+### Insight and Recommendation
+---
+- The average customer rating suggests there may be opportunities to improve the customer experience. Further investigation could help identify factors such as delivery speed, product quality, or service issues affecting satisfaction.
+- Medium-sized outlets generated higher sales than high-sized outlets, while small-sized outlets recorded the lowest sales.
+- Low fat content products outperformed regular products in both total sales and quantity sold, indicating stronger customer demand for healthier options.
+- Outlets established in 2018 recorded highest total sales compared to outlets established in all other years. 
